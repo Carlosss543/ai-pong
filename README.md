@@ -8,9 +8,7 @@ the game screen and rewards using a REINFORCE-style policy-gradient update.
 
 Episode 800:
 
-<video src="videos/pong-episode-800.mp4" controls width="320">
-  <a href="videos/pong-episode-800.mp4">Watch the recording</a>.
-</video>
+[▶ Watch the AI Pong demo](videos/pong-episode-800.mp4)
 
 Our model controls the right-hand side paddle.
 
