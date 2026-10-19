@@ -6,9 +6,9 @@ the game screen and rewards using a REINFORCE-style policy-gradient update.
 
 ## Demo
 
-Episode 800:
+**Episode 800**
 
-[▶ Watch the AI Pong demo](videos/pong-episode-800.mp4)
+https://github.com/user-attachments/assets/6c3228e0-3bd0-4615-86fc-6cb2618283f0
 
 Our model controls the right-hand side paddle.
 
