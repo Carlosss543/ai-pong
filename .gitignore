@@ -1,0 +1,4 @@
+__pycache__/
+training_checkpoints/
+videos/*
+!videos/pong-episode-800.mp4
